@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReliableUDP", "ReliableUDP\ReliableUDP.vcxproj", "{224F91F4-9E92-44BD-BE82-9FF5269AD393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224F91F4-9E92-44BD-BE82-9FF5269AD393}.Debug|x64.ActiveCfg = Debug|x64
+		{224F91F4-9E92-44BD-BE82-9FF5269AD393}.Debug|x64.Build.0 = Debug|x64
+		{224F91F4-9E92-44BD-BE82-9FF5269AD393}.Debug|x86.ActiveCfg = Debug|Win32
+		{224F91F4-9E92-44BD-BE82-9FF5269AD393}.Debug|x86.Build.0 = Debug|Win32
+		{224F91F4-9E92-44BD-BE82-9FF5269AD393}.Release|x64.ActiveCfg = Release|x64
+		{224F91F4-9E92-44BD-BE82-9FF5269AD393}.Release|x64.Build.0 = Release|x64
+		{224F91F4-9E92-44BD-BE82-9FF5269AD393}.Release|x86.ActiveCfg = Release|Win32
+		{224F91F4-9E92-44BD-BE82-9FF5269AD393}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D481821F-BFE9-479D-9FD9-AD9B28316B2F}
+	EndGlobalSection
+EndGlobal
